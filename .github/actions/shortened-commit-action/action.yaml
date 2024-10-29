@@ -3,4 +3,4 @@ description: 'A simple action that prints Hello World'
 runs:
   using: "composite"
   steps:
-    - run: echo "Hello, shortened commit composite action!"
+    - run: echo "Hello, This is from the fork!"
